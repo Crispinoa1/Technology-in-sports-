@@ -15,4 +15,5 @@
 |-----|----|-------|----|
 |Machine Learning in Sports Analytics and Performance Prediction|2023|How sports are changing the way there being played and trained through machine learning and sport analytics|https://medium.com/dataduniya/machine-learning-in-sports-analytics-and-performance-prediction-d7f50799f684#:~:text=Machine%20Learning%20has%20the%20capability,that%20effectively%20counter%20specific%20opponents.|
 
-### Reasearch Paper
+### Reasearch Paper https://montclair0-my.sharepoint.com/:w:/g/personal/crispinoa1_montclair_edu/EUilmhRp7glIlObx4WKiBjoB4TU32tYrcvuSR5Cs5FQQUg?e=8en9Ux 
+
